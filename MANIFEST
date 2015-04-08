@@ -1,0 +1,17 @@
+This zip file contains optimized resources for http://forkonlp.dothome.co.kr/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/bootstrap.min.css: http://forkonlp.dothome.co.kr/css/bootstrap.min.css
+css/grayscale.css: http://forkonlp.dothome.co.kr/css/grayscale.css
+css/font-awesome.min.css: http://forkonlp.dothome.co.kr/font-awesome/css/font-awesome.min.css
+js/jquery.js: http://forkonlp.dothome.co.kr/js/jquery.js
+js/bootstrap.min.js: http://forkonlp.dothome.co.kr/js/bootstrap.min.js
+js/jquery.easing.min.js: http://forkonlp.dothome.co.kr/js/jquery.easing.min.js
+js/grayscale.js: http://forkonlp.dothome.co.kr/js/grayscale.js
+image/intro-bg.jpg: http://forkonlp.dothome.co.kr/img/intro-bg.jpg
+image/donation-bg.jpg: http://forkonlp.dothome.co.kr/img/donation-bg.jpg
